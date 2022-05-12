@@ -1,4 +1,4 @@
-# Florida-Mental-Illness-using-Social-Media-Data
+# Florida-Mental-Illness-using-Social-Media-Data-using-NLP
 Objective - Using NLP to detect mental illnesses among social media users in Florida.
 
 In this study, we have extracted around 410K tweets from twitter for users in the state of Florida using snsscrape package based on 4 clusters of high population density. Relevant data from specific subreddits channels were pulled and formed a text corpus consisting of 310K posts which was used to train our logistic regression model. (This reddit data was sourced from the Journal of Medical Internet Research. Link in references of the report).
