@@ -13,7 +13,7 @@ Also, highest Schizophrenia sufferers were from the Jacksonville area whereas PT
 
 The Tampa region also had the highest Mental Health & Alcoholism volumes over the other clusters.
 
-Recommendations![image](https://user-images.githubusercontent.com/84548435/169628258-bd66291f-f6da-45b9-930c-1f47c19fe728.png)
+Recommendations
 
 Increase Suicide Prevention lines and awareness, mainly in the local Jacksonville and Panhandle clusters.
 Conduct periodic surveys for mental well-being and behavioral health.
