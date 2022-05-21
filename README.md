@@ -22,8 +22,7 @@ More health insurance options with specific behavioral therapy, group options an
 Conduct Behavior therapy sessions for those who suffer from depression & PTSD, mainly in Miami and Tampa clusters.
 Conduct free/reduced cost counselling sessions to fight Anxiety with support groups.
 Mandating few PTO days off for mental health and avoiding burnout/stress.
-Investment in treatment of mental illnesses has 4 times the ROI. (https://www.who.int/news/item/13-04-2016-investing-in-treatment-for-depression-and-anxiety-leads-to-fourfold-return )
-![image](https://user-images.githubusercontent.com/84548435/169628262-a9f0c12c-7089-4cb9-9390-e7341005ca44.png)
+Investment in treatment of mental illnesses has 4 times the ROI. (https://www.who.int/news/item/13-04-2016-investing-in-treatment-for-depression-and-anxiety-leads-to-fourfold-return)
 
 
 Code file and Document attached to the repository.
